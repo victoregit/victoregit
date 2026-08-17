@@ -6,7 +6,6 @@
 ### 🌐 My personal projects
 
 [![MP3 Converter 🎧](https://img.shields.io/badge/🎧MP3-37a779?style=for-the-badge)](https://mp3convert.netlify.app)
-[![Link Tree 🌱](https://img.shields.io/badge/🌱Lnktree-37a779?style=for-the-badge)](https://lnktree.netlify.app)
 [![Digitama 🥚](https://img.shields.io/badge/🥚Digitama-37a779?style=for-the-badge)](https://digitamabr.netlify.app/)
 
 ### 🔧 Technologies and Tools I Use:
