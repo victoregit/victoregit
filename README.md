@@ -1,44 +1,50 @@
-<h2 align="left">
-  Hello! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-  <br>I'm Victor Elias, Fullstack Developer.
-</h2>
+<div align="center">
 
-### 🌐 Portfolio
+# Victor Elias
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-37a779?style=for-the-badge&logo=netlify&logoColor=white)](https://vefolio.netlify.app/)
+### Full-stack Developer · Interfaces, products and digital experiences
 
-### 🔧 Technologies and Tools I Use:
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-</p>
+I build responsive web applications with a strong eye for design,<br>
+turning ideas into clear, intuitive and enjoyable experiences.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_website-37A779?style=for-the-badge&logo=netlify&logoColor=white)](https://vefolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorsle013@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoregit)
 
+<br>
 
-### 👨🏻‍💻 About Me:
+<a href="https://vefolio.netlify.app/">
+  <img src="./assets/portfolio-retro-sequence.gif" alt="Animated preview of Victor Elias's portfolio" width="560">
+</a>
 
-- 🎨 Passionate about working with **interfaces** and **design**, always making sure things look and feel just right.
-- 💡 Currently studying **Java** and **Angular**, but always eager to explore and learn new tools and technologies.
-- 😊 Always excited to collaborate on projects that involve creating intuitive and beautiful **user experiences**.
+</div>
 
----
+## About me
 
-<p align="center">
-  <img src="https://http.cat/417" width="1000" height="300" />
-</p>
+I'm a full-stack developer who enjoys working where **code, interface and design** meet. I care about the details that make a product feel polished—from a solid implementation to a simple, accessible user experience.
+
+- Building responsive interfaces and full-stack web experiences
+- Deepening my knowledge of **Java** and **Angular**
+- Open to collaborating on thoughtful products and creative projects
+
+## Tech stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,java&theme=dark" alt="HTML, CSS, JavaScript, React, Angular, Node.js and Java" />
+</div>
+
+## What I value
+
+```text
+Clean interfaces  ·  Thoughtful details  ·  Continuous learning  ·  Good collaboration
+```
+
+## Let's connect
+
+Want to discuss a project, an opportunity or exchange ideas? Visit my [portfolio](https://vefolio.netlify.app/) or send me an [email](mailto:victorsle013@gmail.com).
+
+<div align="center">
+
+<sub>Designed and built with care by Victor Elias.</sub>
+
+</div>
