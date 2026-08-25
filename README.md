@@ -3,11 +3,9 @@
   <br>I'm Victor Elias, Fullstack Developer.
 </h2>
 
-### 🌐 My personal projects
+### 🌐 Portfolio
 
-[![MP3 Converter 🎧](https://img.shields.io/badge/🎧MP3-37a779?style=for-the-badge)](https://mp3convert.netlify.app)
-[![Digitama 🥚](https://img.shields.io/badge/🥚_Digitama-37a779?style=for-the-badge)](https://digitama-trainer-gkmm.onrender.com/)
-[![Digitama Beta 👾](https://img.shields.io/badge/👾DigitamaBeta-37a779?style=for-the-badge)](https://digitama.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/vefolio-37a779?style=for-the-badge&logo=netlify&logoColor=white)](https://vefolio.netlify.app/)
 
 ### 🔧 Technologies and Tools I Use:
 <p align="left">
