@@ -11,21 +11,16 @@ turning ideas into clear, intuitive and enjoyable experiences.
 [![Email](https://img.shields.io/badge/Email-Let's_talk-1F2937?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorsle013@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victoregit)
 
-<br>
-
-<a href="https://vefolio.netlify.app/">
-  <img src="./assets/portfolio-retro-sequence.gif" alt="Animated preview of Victor Elias's portfolio" width="560">
-</a>
-
 </div>
 
 ## About me
 
-I'm a full-stack developer who enjoys working where **code, interface and design** meet. I care about the details that make a product feel polished—from a solid implementation to a simple, accessible user experience.
+I'm a full-stack developer focused on the intersection of **code, interface and product design**. I turn ideas into responsive web experiences, with attention to usability, visual consistency and maintainable implementation.
 
-- Building responsive interfaces and full-stack web experiences
-- Deepening my knowledge of **Java** and **Angular**
-- Open to collaborating on thoughtful products and creative projects
+- Front-end development with **JavaScript** and **React**
+- Back-end development with **Node.js**
+- Currently expanding my experience with **Angular** and **Java**
+- Interested in product-oriented teams and well-crafted digital experiences
 
 ## Tech stack
 
@@ -33,10 +28,31 @@ I'm a full-stack developer who enjoys working where **code, interface and design
   <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,java&theme=dark" alt="HTML, CSS, JavaScript, React, Angular, Node.js and Java" />
 </div>
 
-## What I value
+**Core:** HTML · CSS · JavaScript · React · Node.js<br>
+**Currently learning:** Angular · Java
+
+## Featured work
+
+### Personal portfolio
+
+A visual portfolio designed to present my work and creative direction through an interactive, retro-inspired experience.
+
+<div align="center">
+
+<a href="https://vefolio.netlify.app/">
+  <img src="./assets/portfolio-retro-sequence.gif" alt="Animated preview of Victor Elias's personal portfolio" width="560">
+</a>
+
+<br>
+
+[**Explore the live portfolio →**](https://vefolio.netlify.app/)
+
+</div>
+
+## How I work
 
 ```text
-Clean interfaces  ·  Thoughtful details  ·  Continuous learning  ·  Good collaboration
+Clarity first  ·  Thoughtful details  ·  Continuous improvement  ·  Good collaboration
 ```
 
 ## Let's connect
