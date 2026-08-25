@@ -5,7 +5,7 @@
 
 ### 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/vefolio-37a779?style=for-the-badge&logo=netlify&logoColor=white)](https://vefolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-37a779?style=for-the-badge&logo=netlify&logoColor=white)](https://vefolio.netlify.app/)
 
 ### 🔧 Technologies and Tools I Use:
 <p align="left">
